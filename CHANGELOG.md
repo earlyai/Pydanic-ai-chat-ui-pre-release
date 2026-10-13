@@ -1,3 +1,10 @@
+## [2.3.1](https://github.com/pydantic/ai-chat-ui/compare/v2.3.0...v2.3.1) (2026-10-13)
+
+
+### Bug Fixes
+
+* use conversation IDs for chat requests ([#53](https://github.com/pydantic/ai-chat-ui/issues/53)) ([8b7babd](https://github.com/pydantic/ai-chat-ui/commit/8b7babda5f4e561f640fe7f5368b61e16f2763f9))
+
 # [2.3.0](https://github.com/pydantic/ai-chat-ui/compare/v2.2.0...v2.3.0) (2026-08-19)
 
 
